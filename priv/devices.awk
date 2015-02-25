@@ -1,0 +1,3 @@
+/^\[AVFoundation/ {
+    print $0
+}
